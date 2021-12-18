@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\bin\Debug\netcoreapp3.1\3.Generating01Vectors.exe
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\bin\Debug\netcoreapp3.1\3.Generating01Vectors.deps.json
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\bin\Debug\netcoreapp3.1\3.Generating01Vectors.runtimeconfig.json
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\bin\Debug\netcoreapp3.1\3.Generating01Vectors.runtimeconfig.dev.json
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\bin\Debug\netcoreapp3.1\3.Generating01Vectors.dll
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\bin\Debug\netcoreapp3.1\3.Generating01Vectors.pdb
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\obj\Debug\netcoreapp3.1\3.Generating01Vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\obj\Debug\netcoreapp3.1\3.Generating01Vectors.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\obj\Debug\netcoreapp3.1\3.Generating01Vectors.AssemblyInfo.cs
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\obj\Debug\netcoreapp3.1\3.Generating01Vectors.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\obj\Debug\netcoreapp3.1\3.Generating01Vectors.dll
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\obj\Debug\netcoreapp3.1\3.Generating01Vectors.pdb
+C:\Users\peter\source\repos\01.Recursion and Backtracking\3.Generating01Vectors\obj\Debug\netcoreapp3.1\3.Generating01Vectors.genruntimeconfig.cache
