@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\02.RecursiveDrawing\\02.RecursiveDrawing.csproj": {}
+    "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\02.RecursiveDrawing\\02.RecursiveDrawing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\02.RecursiveDrawing\\02.RecursiveDrawing.csproj": {
+    "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\02.RecursiveDrawing\\02.RecursiveDrawing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\02.RecursiveDrawing\\02.RecursiveDrawing.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\02.RecursiveDrawing\\02.RecursiveDrawing.csproj",
         "projectName": "02.RecursiveDrawing",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\02.RecursiveDrawing\\02.RecursiveDrawing.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\02.RecursiveDrawing\\02.RecursiveDrawing.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\02.RecursiveDrawing\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\02.RecursiveDrawing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

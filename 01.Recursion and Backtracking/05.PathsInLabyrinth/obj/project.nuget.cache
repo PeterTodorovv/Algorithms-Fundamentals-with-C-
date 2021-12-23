@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9wmK7rKn4RsRAYDLf8bkJ0LkESiaYOYCQHhPKJmbb6nAnUeQ10+Lb4x3W1/V0s6uIQgiusMF1xrcPtiCyolGg==",
+  "dgSpecHash": "x/LmkxDMAONzdtEZfCbOUHKnDVP3/t8fuSQceLxIsDQ7F5YHajU3qtocVnkEMGH1SFFhT75+jM+FqDWhPEzwiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\3.Generating01Vectors\\03.Generating01Vectors.csproj": {}
+    "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\3.Generating01Vectors\\03.Generating01Vectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\3.Generating01Vectors\\03.Generating01Vectors.csproj": {
+    "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\3.Generating01Vectors\\03.Generating01Vectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\3.Generating01Vectors\\03.Generating01Vectors.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\3.Generating01Vectors\\03.Generating01Vectors.csproj",
         "projectName": "03.Generating01Vectors",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\3.Generating01Vectors\\03.Generating01Vectors.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\3.Generating01Vectors\\03.Generating01Vectors.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\3.Generating01Vectors\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\3.Generating01Vectors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

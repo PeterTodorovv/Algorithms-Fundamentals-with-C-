@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj": {}
+    "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj": {
+    "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj",
         "projectName": "05.PathsInLabyrinth",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\05.PathsInLabyrinth.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\algorithmsFundamentals\\01.Recursion and Backtracking\\05.PathsInLabyrinth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
