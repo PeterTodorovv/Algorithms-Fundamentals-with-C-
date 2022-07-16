@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.exe
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.deps.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.runtimeconfig.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.runtimeconfig.dev.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\netcoreapp3.1\04.RecursiveFactorial.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.AssemblyInfo.cs
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\netcoreapp3.1\04.RecursiveFactorial.genruntimeconfig.cache

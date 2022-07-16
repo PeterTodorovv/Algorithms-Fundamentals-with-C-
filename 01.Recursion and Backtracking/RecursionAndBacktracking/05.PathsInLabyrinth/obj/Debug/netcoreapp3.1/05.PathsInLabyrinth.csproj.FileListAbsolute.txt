@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\bin\Debug\netcoreapp3.1\05.PathsInLabyrinth.exe
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\bin\Debug\netcoreapp3.1\05.PathsInLabyrinth.deps.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\bin\Debug\netcoreapp3.1\05.PathsInLabyrinth.runtimeconfig.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\bin\Debug\netcoreapp3.1\05.PathsInLabyrinth.runtimeconfig.dev.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\bin\Debug\netcoreapp3.1\05.PathsInLabyrinth.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\bin\Debug\netcoreapp3.1\05.PathsInLabyrinth.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\obj\Debug\netcoreapp3.1\05.PathsInLabyrinth.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\obj\Debug\netcoreapp3.1\05.PathsInLabyrinth.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\obj\Debug\netcoreapp3.1\05.PathsInLabyrinth.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\obj\Debug\netcoreapp3.1\05.PathsInLabyrinth.AssemblyInfo.cs
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\obj\Debug\netcoreapp3.1\05.PathsInLabyrinth.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\obj\Debug\netcoreapp3.1\05.PathsInLabyrinth.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\obj\Debug\netcoreapp3.1\05.PathsInLabyrinth.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\05.PathsInLabyrinth\obj\Debug\netcoreapp3.1\05.PathsInLabyrinth.genruntimeconfig.cache

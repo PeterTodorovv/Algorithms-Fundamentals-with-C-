@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.exe
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.deps.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.runtimeconfig.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.runtimeconfig.dev.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\bin\Debug\netcoreapp3.1\01.RecursiveArraySum.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.AssemblyInfo.cs
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\01.RecursiveArraySum\obj\Debug\netcoreapp3.1\01.RecursiveArraySum.genruntimeconfig.cache

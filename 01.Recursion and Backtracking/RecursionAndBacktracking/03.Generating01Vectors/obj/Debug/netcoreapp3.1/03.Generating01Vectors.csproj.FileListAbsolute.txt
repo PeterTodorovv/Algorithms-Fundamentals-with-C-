@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\netcoreapp3.1\03.Generating01Vectors.exe
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\netcoreapp3.1\03.Generating01Vectors.deps.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\netcoreapp3.1\03.Generating01Vectors.runtimeconfig.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\netcoreapp3.1\03.Generating01Vectors.runtimeconfig.dev.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\netcoreapp3.1\03.Generating01Vectors.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\netcoreapp3.1\03.Generating01Vectors.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\netcoreapp3.1\03.Generating01Vectors.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\netcoreapp3.1\03.Generating01Vectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\netcoreapp3.1\03.Generating01Vectors.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\netcoreapp3.1\03.Generating01Vectors.AssemblyInfo.cs
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\netcoreapp3.1\03.Generating01Vectors.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\netcoreapp3.1\03.Generating01Vectors.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\netcoreapp3.1\03.Generating01Vectors.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\01.Recursion and Backtracking\RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\netcoreapp3.1\03.Generating01Vectors.genruntimeconfig.cache
