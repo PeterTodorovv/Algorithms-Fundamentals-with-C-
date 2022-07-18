@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace _05.PathsInLabyrinth
@@ -14,14 +15,37 @@ namespace _05.PathsInLabyrinth
             int Number2 = int.Parse(Console.ReadLine());
 
             char[,] matrix = ReadMatrix(Number1, Number2);
+
+            FindPaths(matrix, 0, 0, new char());
         }
 
-        public static void FindPaths(char[,] matrix, int n1, int n2)
+        public static void FindPaths(char[,] matrix, int n1, int n2, char direction)
         {
             if(!IsValidDirectoin(matrix, n1, n2))
             {
                 return;
             }
+
+
+            Path.Add(direction);
+
+            if (matrix[n1, n2] == 'e')
+            {
+                Console.WriteLine(String.Join("", Path));
+                Path.RemoveAt(Path.Count - 1);
+                return;
+            }
+
+            matrix[n1, n2] = 'v';
+
+            FindPaths(matrix, n1, n2 + 1, 'R'); //right
+            FindPaths(matrix, n1 + 1, n2, 'D'); //down
+            FindPaths(matrix, n1, n2 - 1, 'L'); //left
+            FindPaths(matrix, n1 - 1, n2, 'U'); //up
+
+            matrix[n1, n2] = '-';
+
+            Path.RemoveAt(Path.Count - 1);
         }
 
         public static bool IsValidDirectoin(char[,] matrix, int n1, int n2)
@@ -31,12 +55,10 @@ namespace _05.PathsInLabyrinth
                 return false;
             }
 
-            IsValidDirectoin(matrix, n1, n2 + 1); //right
-            IsValidDirectoin(matrix, n1 + 1, n2); //down
-            IsValidDirectoin(matrix, n1, n2 - 1); //left
-            IsValidDirectoin(matrix, n1 - 1, n2); //up
-
-
+            if (matrix[n1, n2] == '*' || matrix[n1, n2] == 'v')
+            {
+                return false;
+            }
 
 
             return true;
@@ -48,11 +70,11 @@ namespace _05.PathsInLabyrinth
 
             for (int i = 0; i < x; i++)
             {
-                string[] row = Console.ReadLine().Split();
+                string row = Console.ReadLine();
 
                 for(int j = 0; j < row.Length; j++)
                 {
-                    matrix[i, j] = char.Parse(row[j]);
+                    matrix[i, j] = row[j];
                 }
             }
 
