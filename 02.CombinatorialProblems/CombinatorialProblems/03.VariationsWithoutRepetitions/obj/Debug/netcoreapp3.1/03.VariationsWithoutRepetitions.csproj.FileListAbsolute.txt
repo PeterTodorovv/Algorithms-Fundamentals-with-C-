@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\bin\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.exe
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\bin\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.deps.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\bin\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.runtimeconfig.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\bin\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.runtimeconfig.dev.json
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\bin\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\bin\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\obj\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\obj\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\obj\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\obj\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.AssemblyInfo.cs
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\obj\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\obj\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.dll
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\obj\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.pdb
+D:\c#Code\softuniC#\AlgorithmsFundamentals\02.CombinatorialProblems\CombinatorialProblems\03.VariationsWithoutRepetitions\obj\Debug\netcoreapp3.1\03.VariationsWithoutRepetitions.genruntimeconfig.cache

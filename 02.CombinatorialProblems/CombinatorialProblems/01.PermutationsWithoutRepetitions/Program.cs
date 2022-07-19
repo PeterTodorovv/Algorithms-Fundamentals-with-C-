@@ -7,6 +7,7 @@ namespace _01.PermutationsWithoutRepetitions
         public static char[] elements;
         public static bool[] areUsed;
         public static char[] permutation;
+
         static void Main(string[] args)
         {
             elements = new char[] { 'A', 'B', 'C'};
